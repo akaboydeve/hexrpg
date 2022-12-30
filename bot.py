@@ -1,4 +1,3 @@
-# token-  MTA1ODQ0MTUxMDk1NTI3NDMzMA.GEbK2w.cCcoTturqserYLhpsuGbT9gfW736iV6vqGdy9k
 
 import discord
 
@@ -38,4 +37,4 @@ async def on_message(message):
         await message.channel.send(f"{mention}, welcome to Hex RPG! Get ready to embark on an epic adventure filled with danger and adventure.")
 
 # Run the bot
-client.run("MTA1ODQ0MTUxMDk1NTI3NDMzMA.GEbK2w.cCcoTturqserYLhpsuGbT9gfW736iV6vqGdy9k")
+client.run("your_bot_token")
