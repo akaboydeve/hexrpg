@@ -38,3 +38,4 @@ async def on_message(message):
 
 # Run the bot
 client.run("your_bot_token")
+
